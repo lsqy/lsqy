@@ -1,6 +1,6 @@
 ![xingkong](https://user-images.githubusercontent.com/18533232/131251749-04edc766-d12c-4064-86d6-2fc811b05599.jpeg)
 
-### 星辰大海
+### The sea of stars✨, the future is predictable.
 
 <!--
 **lsqy/lsqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
