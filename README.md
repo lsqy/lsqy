@@ -6,8 +6,6 @@ I am currently engaged in front-end development in Ant Group
 
 ### Analysis :point_down:
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsqy&layout=compact)](https://github.com/lsqy)
-
 ![lsqy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsqy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![xingkong](https://user-images.githubusercontent.com/18533232/131251749-04edc766-d12c-4064-86d6-2fc811b05599.jpeg)
