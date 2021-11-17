@@ -1,10 +1,11 @@
 **Welcome to lsqy's github** 👋
 
 ![](https://komarev.com/ghpvc/?username=lsqy)
+[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-lsqy-brightgreen?logo=appveyor)](https://juejin.cn/user/2277843821148494)
 
 ### About me:
 
-I am currently engaged in front-end development in Ant Group
+I am currently engaged in front-end development in Ant Group.
 
 ### About team：
 
