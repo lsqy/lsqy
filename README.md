@@ -4,6 +4,10 @@
 
 I am currently engaged in front-end development in Ant Group
 
+### About team：
+
+![详见👉](https://juejin.cn/post/7020243260559851527)
+
 ### Analysis :point_down:
 
 ![lsqy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsqy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
@@ -11,6 +15,8 @@ I am currently engaged in front-end development in Ant Group
 ![xingkong](https://user-images.githubusercontent.com/18533232/131251749-04edc766-d12c-4064-86d6-2fc811b05599.jpeg)
 
 > The sea of stars✨, the future is predictable.
+
+**蚂蚁/阿里长期招聘，欢迎加入**～
 
 <!--
 **lsqy/lsqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
