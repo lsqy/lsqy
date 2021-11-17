@@ -2,6 +2,13 @@
 
 ### The sea of stars✨, the future is predictable.
 
+### Analysis :point_down:
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsqy&layout=compact)](https://github.com/lsqy)
+
+![lsqy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsqy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://github-profile-trophy.vercel.app/?username=lsqy&theme=flat&column=7&margin-w=10)
 <!--
 **lsqy/lsqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
