@@ -1,5 +1,7 @@
 **Welcome to lsqy's github** 👋
 
+![](https://komarev.com/ghpvc/?username=lsqy)
+
 ### About me:
 
 I am currently engaged in front-end development in Ant Group
