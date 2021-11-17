@@ -6,7 +6,7 @@ I am currently engaged in front-end development in Ant Group
 
 ### About team：
 
-![详见👉](https://juejin.cn/post/7020243260559851527)
+[详见👉](https://juejin.cn/post/7020243260559851527)
 
 ### Analysis :point_down:
 
