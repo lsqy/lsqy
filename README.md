@@ -31,9 +31,11 @@ I am currently engaged in front-end development in Ant Group.
 
 > The sea of stars✨, the future is predictable.
 
+<!--
 **蚂蚁/阿里长期招聘，欢迎加入**～
 
 [JD👉](https://github.com/lsqy/lsqy/issues/1)
+-->
 
 <!--
 **lsqy/lsqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
